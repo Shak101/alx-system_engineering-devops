@@ -1,4 +1,7 @@
 #!/bin/bash
 su betty
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e71990a9cb9952aaf5d7f0d751268413fe9a83dd
